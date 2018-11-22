@@ -1,16 +1,22 @@
-## Welcome
+## Myself
 
-I am a C# Technical Evangelist.
+I am a .NET or C# enthusiast specialized in Windows application development
 
+### Skill
 
-### Area of specialization
-
-Windows application development
+* Software Architecture
+* Test Driven Development
+* .NET
+  * C#
+  * WinForms
+  * WPF
+  * WCF
+  * LINQ
 
 ```C#
-public main()
+public void main()
 {
-  Console.WriteLine("Hello World");
+  Console.WriteLine("A developer is a machine that converts coffee into code.");
 }
 ```
 ### Support or Contact
