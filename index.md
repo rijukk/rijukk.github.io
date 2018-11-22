@@ -1,7 +1,3 @@
-## Myself
-
-I am a .NET or C# enthusiast specialized in Windows application development
-
 ### Skill
 
 * Software Architecture
